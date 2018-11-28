@@ -1,3 +1,5 @@
+# Super-old library for logging/retrieving from Loggly.  Used in a script in the streaming repo (loggly_hoover.py) to fetch logs for listings with broken connections
+
 #Hoover
 
 
